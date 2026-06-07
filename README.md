@@ -26,7 +26,7 @@ Riot TFT API
 
 Python 수집 프로그램
 
-collect_matches.py (브론즈~골드), collect_matches2.py (에메랄드~다이아)
+collect_matches.py (브론즈, 실버, 골드), collect_matches2.py (에메랄드, 다이아)
 
 ↓
 
